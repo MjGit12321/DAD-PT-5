@@ -1,0 +1,13 @@
+# Build outputs
+bin/
+obj/
+out/
+
+# IDE / User files
+.vs/
+.vscode/
+*.user
+*.suo
+
+# Local extracted test server (not part of source submission)
+LocalServer/
