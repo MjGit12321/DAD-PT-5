@@ -37,3 +37,5 @@ public partial class App : Application
         base.OnFrameworkInitializationCompleted();
     }
 }
+// MJ Jade Piquero - 2024300423
+// John Carlo Magno - 2024301174
